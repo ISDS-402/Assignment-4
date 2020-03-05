@@ -17,4 +17,7 @@ Extend and modify the E-R data model by adding only The Queen Anne Curiosity Sho
 Extend and modify the E-R data model by adding only The Queen Anne Curiosity Shop’s need for more efficient storage of CUSTOMER and EMPLOYEE data. Use the IE Crow’s Foot E-R model for your E-R diagrams. Create appropriate identifiers and attributes for each entity. Justify the decisions you make regarding minimum and maximum cardinalities. 
 
 ## D.  
-Combine the E-R data models from parts B and C to meet all of The Queen Anne Curiosity Shop’s new requirements, making additional modifications, as needed. Use the IE Crow’s Foot E-R model for your E-R diagrams. E.  Describe how you would go about validating your data model in part D.
+Combine the E-R data models from parts B and C to meet all of The Queen Anne Curiosity Shop’s new requirements, making additional modifications, as needed. Use the IE Crow’s Foot E-R model for your E-R diagrams. 
+
+##E.  
+Describe how you would go about validating your data model in part D.
