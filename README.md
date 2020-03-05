@@ -19,5 +19,5 @@ Extend and modify the E-R data model by adding only The Queen Anne Curiosity Sho
 ## D.  
 Combine the E-R data models from parts B and C to meet all of The Queen Anne Curiosity Shop’s new requirements, making additional modifications, as needed. Use the IE Crow’s Foot E-R model for your E-R diagrams. 
 
-##E.  
+## E.  
 Describe how you would go about validating your data model in part D.
